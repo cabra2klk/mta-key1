@@ -1,7 +1,7 @@
 {
   "GAN": {
     "cabra": {
-      "server_ip": "1",
+      "server_ip": "SERVER IP",
       "user_key": "123"
     },
     "123": {
